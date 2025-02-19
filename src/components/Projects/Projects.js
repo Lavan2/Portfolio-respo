@@ -59,7 +59,7 @@ function Projects() {
               imgPath={leaf}  //Alzeh
               isBlog={false}
               title="Alzheimer Disease Classification"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="Developed an AI-based Alzheimer’s Detection System using Python, TensorFlow, Keras, and OpenCV. The system analyzes MRI scans with DenseNet169 to classify dementia stages and uses Grad-CAM for visualizing affected brain areas, aiding in early diagnosis."
               // ghLink="https://github.com/Lavan02/Project-Name"
               // demoLink="https://project-name/"
             />
