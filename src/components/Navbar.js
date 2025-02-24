@@ -93,18 +93,18 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item>
-              {/* <Nav.Link
-                href="https://lavan.vercel.app/"
+              <Nav.Link
+                href="https://nxt-gen-minds.blogspot.com/"
                 target="_blank"
                 rel="noreferrer"
               >
                 <ImBlog style={{ marginBottom: "2px" }} /> Blogs
-              </Nav.Link> */}
+              </Nav.Link>
             </Nav.Item>
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/Lavan02"
+                href="https://github.com/Lavan2/Portfolio-respo"
                 target="_blank"
                 className="fork-btn-inner"
               >
